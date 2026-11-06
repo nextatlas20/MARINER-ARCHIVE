@@ -1,0 +1,4 @@
+collection_code,curator,shelf_leaf_capacity,valid_boxes,valid_leaves,shelved_boxes,shelved_leaves,hold_boxes,unused_capacity
+ARC-COAST,Maris Venn,150,2,210,1,90,1,60
+ARC-RIVER,Orin Pike,300,3,450,2,250,1,50
+ARC-SKY,Leda Moss,100,0,0,0,0,0,100
